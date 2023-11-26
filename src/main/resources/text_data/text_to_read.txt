@@ -1,0 +1,2 @@
+Hello world!
+And this is my first java application, one more time hello!
